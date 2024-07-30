@@ -12,5 +12,5 @@ export const dialogueData = {
   resume: `This is my desk and on it is my resume. <a href="https://drive.google.com/file/d/1KxwdhUWHbWROWo0XoToelaD264da6q0Q/view?usp=drivesdk" target="_blank">Check it out?</a>`,
   projects: `I have worked on multiple software projects, such as <a href="https://github.com/IshitaBhagat/decentralized-voting-system">De-centralized Voting System</a> and <a href="https://github.com/Prashant1709/Ocean_Wave_Tracking">Ocean Wave Tracking</a>`,
   library: `This is my library. I am well versed with developer tools, like Git, GitHub, MySQL, UI Path, Amazon Web Sevices & Microsoft Azure.`,
-  exit: `If you want to exit, just <a href="https://portfolio-mu-black-42.vercel.app">Click here</a>. Bye!!!`,
+  exit: `If you want to exit, just <a href="https://akarshkapoor-portfolio.vercel.app/">Click here</a>. Bye!!!`,
 };
